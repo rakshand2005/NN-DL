@@ -12,6 +12,9 @@ plt.xlabel("Feature 1",fontsize=14)
 plt.ylabel("Feature 1",fontsize=14)
 X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.33,random_state=42)
 print(X_train.shape)
+asd;lfkjasdl;kfj aslkdfj
+
+hello there
 print(y_train.shape)
 print(X_train.shape)
 print(X_train.shape)
